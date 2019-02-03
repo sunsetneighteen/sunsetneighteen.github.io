@@ -4,6 +4,8 @@
 
 ## Preview
 
+permalink: /index.html
+
 [![Agency Preview](https://startbootstrap.com/assets/img/templates/agency.jpg)](https://blackrockdigital.github.io/startbootstrap-agency/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
